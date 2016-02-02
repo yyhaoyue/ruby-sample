@@ -1,1 +1,1 @@
-web: bundle exec ruby web.rb 80
+web: bundle exec proxy.rb
